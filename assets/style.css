@@ -65,3 +65,18 @@ body {
 .clear {
     background-color: #FFA9A8;
 }
+
+@media screen and (max-width: 513px) {
+    .button {
+        padding: 10px;
+        font-size: 1em;
+    }
+
+    .button:hover {
+        font-size: 1em;
+    }
+
+    .displayNumber {
+        font-size: 1em;
+    }
+}
